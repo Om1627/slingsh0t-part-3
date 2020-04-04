@@ -23,9 +23,7 @@ class Boxgreen{
             pop();  
         } else {
             World.remove(world,this.body);
-            push();
-            score=score+1;
-            pop();
+           
         }
         
     }
