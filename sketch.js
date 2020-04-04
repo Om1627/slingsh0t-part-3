@@ -104,7 +104,7 @@ function draw() {
   box37.display();
   ball.display();
   slingshot.display();
- text("score: "+ score,200,200);
+
 }
    
 function mouseDragged(){
